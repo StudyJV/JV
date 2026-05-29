@@ -1,6 +1,6 @@
 # Hey, I'm JV &nbsp;👋
 
-> *Engineer/founder/Mentor/Investpr. I design, build and ship things end-to-end — from architecture to deployment.*
+> *Engineer/founder/Mentor/Advisor/Investor. I design, build and ship things end-to-end — from architecture to deployment.*
 
 I work at the intersection of **software engineering**, and **Cloud + AI infrastructure**.
 Data-driven, and built to last — not just to ship.
